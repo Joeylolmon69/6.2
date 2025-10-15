@@ -1,0 +1,24 @@
+[b1]  { height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+[b2]  { height: 200px;
+  width: 200px;
+  background-color: black;
+}
+
+[b3]  { height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+[b4]  { height: 200px;
+  width: 200px;
+  background-color: green;
+}
+.Container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row-reverse;
+}
